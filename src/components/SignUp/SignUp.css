@@ -1,0 +1,15 @@
+.inputi{
+    align-content: center;
+    align-items: center;
+    width: 200px;
+    padding: 0 20px;
+    font-size: 18px;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  .submiti{
+      border-radius: 5px;
+      height: 35px;
+      align-self: center
+  }
